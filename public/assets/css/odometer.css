@@ -1,0 +1,27 @@
+/* ! odometer 0.4.8
+
+
+
+
+
+*/
+.myodometer.myodometer-auto-theme,
+.myodometer.myodometer-theme-default {
+    display: inline-block;
+    vertical-align: middle;
+    *vertical-align: auto;
+    *zoom: 1;
+    *display: inline;
+    position: relative
+}
+
+
+.myodometer.myodometer-auto-theme,
+.myodometer.myodometer-theme-default {
+    line-height: 1.1em
+}
+
+.myodometer.myodometer-auto-theme .myodometer-value,
+.myodometer.myodometer-theme-default .myodometer-value {
+    text-align: center
+}
